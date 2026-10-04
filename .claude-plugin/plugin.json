@@ -1,0 +1,7 @@
+{
+  "name": "osfoundry-claude",
+  "displayName": "osFoundry",
+  "version": "0.2.0",
+  "description": "Connect Claude to selected osFoundry projects and resources.",
+  "author": { "name": "OS LLC" }
+}

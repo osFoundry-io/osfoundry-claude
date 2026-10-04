@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "osfoundry": {
+      "type": "http",
+      "url": "https://api.osfoundry.io/api/v1/external-mcp"
+    }
+  }
+}
