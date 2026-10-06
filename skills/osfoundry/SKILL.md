@@ -7,4 +7,4 @@ Connect to osFoundry when the user asks to work with their osFoundry workspace. 
 
 Read the current Note tab and version before editing it. Text replacement, Slide additions, and Sheet range edits use different `edit_note_tab` operations; choose the operation for the tab type. Explain the intended change and obtain any approval the host requires before calling a write tool. Do not claim a run, handoff, message, or edit succeeded until its tool result confirms it.
 
-Some osFoundry operations may require credits or an existing paid account. If the service reports insufficient entitlement, explain that status without initiating a purchase.
+An osFoundry workspace requires credit to use the service. If the service reports insufficient credit or entitlement, explain that status without initiating a purchase.
